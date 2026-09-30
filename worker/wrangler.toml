@@ -1,0 +1,4 @@
+name = "sg-omerta-proxy"
+main = "index.js"
+compatibility_date = "2024-01-01"
+account_id = "af9ade68493cdfdeac255e4261f4609b"
